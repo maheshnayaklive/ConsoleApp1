@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    //Main Branch Fix in master
-    //Updated for f1
-    class Common
+    class f1
     {
     }
 }
